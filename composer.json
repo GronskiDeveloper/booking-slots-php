@@ -1,0 +1,23 @@
+{
+    "name": "grodev/booking-slots",
+    "description": "Framework-agnostic available-slot generator for booking systems: business hours + existing bookings -> free slots. PHP 8.1+, zero dependencies.",
+    "type": "library",
+    "keywords": ["booking", "reservations", "appointments", "scheduling", "slots", "calendar", "laravel"],
+    "homepage": "https://grodev.pl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dominik Groński",
+            "homepage": "https://grodev.pl",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "GroDev\\Booking\\": "src/"
+        }
+    }
+}
