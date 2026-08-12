@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-1D9E75.svg?style=flat-square)](LICENSE) [![PHP 8.1+](https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net) [![Laravel-ready](https://img.shields.io/badge/Laravel-ready-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com) [![GroDev](https://img.shields.io/badge/by-GroDev-534AB7?style=flat-square)](https://grodev.pl/system-rezerwacji-online)
 
+> 🇵🇱 **Praca AI-first (PL).** Ten silnik zbudowałem z Claude Code — algorytm overlapa i design value-object po mojej stronie (matematyka rezerwacji nie znosi off-by-one), autoload/composer/docblocki po stronie AI. Podział pracy człowiek/AI, weryfikacja i znane pułapki: [CLAUDE.md](CLAUDE.md). Konfiguracja agenta review: [.claude/commands/verify-slot-math.md](.claude/commands/verify-slot-math.md).
 
 A tiny, **dependency-free** available-slot generator for booking systems. Give it opening hours, a slot length, an optional turnaround buffer and the bookings you already have — get back the free slots a customer can book.
 
