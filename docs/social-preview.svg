@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="booking-slots-php · Silnik wolnych terminów">
+  <defs>
+    <linearGradient id="gbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset="0.55" stop-color="#302b63"/><stop offset="1" stop-color="#24243e"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#gbg)"/>
+  <circle cx="1100" cy="80" r="200" fill="#7F77DD" opacity="0.08"/>
+  <circle cx="80" cy="580" r="240" fill="#7F77DD" opacity="0.06"/>
+  <rect x="60" y="80" width="140" height="30" rx="6" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)"/>
+  <text x="130" y="100" font-family="ui-monospace, monospace" font-size="12" fill="rgba(255,255,255,0.7)" text-anchor="middle" letter-spacing="0.08em">GITHUB · GRODEV</text>
+  <text x="60" y="180" font-family="ui-monospace, monospace" font-size="30" fill="#7F77DD" font-weight="600">booking-slots-php</text>
+  <text x="60" y="280" font-family="ui-sans-serif, -apple-system" font-size="60" fill="#ffffff" font-weight="800" letter-spacing="-0.02em">Silnik wolnych terminów</text>
+  <text x="60" y="380" font-family="ui-sans-serif, -apple-system" font-size="28" fill="rgba(255,255,255,0.75)">Godziny otwarcia + rezerwacje ⇒ wolne sloty — dla PHP i Laravela</text>
+  <line x1="60" y1="450" x2="1140" y2="450" stroke="rgba(255,255,255,0.08)"/>
+  <text x="60" y="500" font-family="ui-monospace, monospace" font-size="18" fill="rgba(255,255,255,0.5)">PHP 8.1+ · Laravel-ready · Zero deps · MIT</text>
+  <g transform="translate(60, 545)">
+    <circle cx="18" cy="18" r="18" fill="#7F77DD"/>
+    <text x="18" y="24" font-family="ui-sans-serif" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle">D</text>
+    <text x="52" y="16" font-family="ui-sans-serif" font-size="16" fill="#ffffff" font-weight="600">Dominik Groński · GroDev</text>
+    <text x="52" y="36" font-family="ui-monospace, monospace" font-size="12" fill="rgba(255,255,255,0.5)">github.com/GronskiDeveloper · grodev.pl</text>
+  </g>
+  <g transform="translate(940, 545)">
+    <rect x="0" y="0" width="200" height="40" rx="20" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)"/>
+    <text x="100" y="26" font-family="ui-sans-serif" font-size="14" fill="#ffffff" font-weight="600" text-anchor="middle">🇵🇱 AI-first · CLAUDE.md</text>
+  </g>
+</svg>
