@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Kontakt komercyjny (GroDev)
+    url: https://grodev.pl/kontakt
+    about: Wdrożenie, integracja, custom - pisz z konkretem, odpisuję do 48 h.
+  - name: 🔒 Zgłoszenie bezpieczeństwa
+    url: https://github.com/GronskiDeveloper/.github/blob/main/SECURITY.md
+    about: Nie zgłaszaj podatności publicznie. Zobacz SECURITY.md w tym repo.
+  - name: 🌐 grodev.pl
+    url: https://grodev.pl
+    about: Portfolio, blog, dema klikalne.
